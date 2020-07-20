@@ -1,0 +1,16 @@
+.cnt {
+    margin-right: 10px;
+  
+
+}
+.divfav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    
+    
+}
+h2{
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+#logo {
+  margin-right: 25px;
+}
+nav{
+  /* background-color: rgb(255, 240, 154); */
+  background-image: url("../nav.png");
+}
+#wa{
+  color: white;
+}
+#about{
+  Color: White;
+  display: flex;
+  justify-content: flex-start;
+}

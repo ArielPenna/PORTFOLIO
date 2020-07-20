@@ -1,0 +1,15 @@
+.boton{
+    background: linear-gradient(to right, rgb(0, 89, 255),rgb(0, 255, 115));
+    border-radius: 10px;
+    border-color: white;
+    color: white;    
+}
+.boton:hover{
+    background: linear-gradient(to left, rgb(0, 89, 255),rgb(0, 255, 115));
+    color: black;
+    border-color: black;
+}
+.input{
+    border-radius: 10px;
+    margin-right: 10px;
+}
