@@ -13,5 +13,12 @@ With This App you Can:
 
 To Install the dependencies: npm install.
 
+Screenshots
+
+<img src="/screenshots/movies1.png"/>
+<img src="/screenshots/movies2.png"/>
+<img src="/screenshots/movies3.png"/>
+
+
 
 
